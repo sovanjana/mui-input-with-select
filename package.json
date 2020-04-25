@@ -1,0 +1,29 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/text-fields/InputAdornments.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "clsx": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@types/material-uiIcons": "latest",
+    "@types/clsx": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/core": "latest"
+  },
+  "keywords": [],
+  "name": "mui-input-with-select",
+  "version": "0.0.0"
+}
